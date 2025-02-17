@@ -1,7 +1,7 @@
 .pytest_cache/*
 .cache/*
 .idea/*
-datasets/*
+#datasets/*
 !datasets/.gitkeep
 .history/*
 .vscode/*
